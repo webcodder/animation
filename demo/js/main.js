@@ -6,7 +6,7 @@ $(function(){
 var demo1 = function() {
     var swiper = new Swiper('.demo1 .swiper-container', {
         pagination: '.swiper-pagination',
-        slidesPerView: 2.6,
+        slidesPerView: 5.8,
         paginationClickable: true,
         spaceBetween: 10,
         freeMode: true
