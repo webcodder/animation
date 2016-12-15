@@ -2,6 +2,8 @@ $(function(){
 	demo();
 	demo_contHeight();
     demo1();
+
+
 });
 
 //选项卡
@@ -29,3 +31,5 @@ var demo1 = function() {
         freeMode: true
     });
 }
+
+
